@@ -6,6 +6,9 @@ public class aaaaaaaaaa {
 System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
 System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
 System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
+System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
+System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
+System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
 	}
 
 }
