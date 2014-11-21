@@ -8,7 +8,8 @@ System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
 System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
 System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
 System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
-System.out.println("おっしゃー！！Ｌ(●´ω｀●)ポイズン");
+System.out.println("おっしゃー！！Ｌ(●´ω｀●)jyajyajayaja");
+System.out.println("おれは火影になる男だってばよ！！(-ω-｀ﾒ)");
 	}
 
 }
